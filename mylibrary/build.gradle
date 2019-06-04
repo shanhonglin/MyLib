@@ -51,5 +51,12 @@ dependencies {
     api 'com.android.support:recyclerview-v7:28.+'
     api 'com.squareup.okhttp3:okhttp:3.4.1'
     api 'com.android.support:appcompat-v7:28.+'
-
+    //适配
+    api 'me.jessyan:autosize:1.1.2'
+    //请求
+    api 'com.kongzue.baseokhttp_v3:baseokhttp_v3:3.0.9'
+    //导航栏
+//    api 'com.androidkun:XTabLayout:1.1.4'
+    //圆形图片
+    api 'de.hdodenhof:circleimageview:3.0.0'
 }
