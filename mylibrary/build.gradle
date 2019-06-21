@@ -59,4 +59,7 @@ dependencies {
 //    api 'com.androidkun:XTabLayout:1.1.4'
     //圆形图片
     api 'de.hdodenhof:circleimageview:3.0.0'
+
+    api 'com.kongzue.baseframework:baseframework:6.6.8'
+
 }
